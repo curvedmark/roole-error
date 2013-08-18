@@ -1,0 +1,29 @@
+{
+  "name": "roole-error",
+  "version": "0.1.0",
+  "description": "Errors thrown by the Roole language",
+  "main": "lib/RooleError.js",
+  "directories": {
+  	"lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --bail --ui qunit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/curvedmark/roole-error.git"
+  },
+  "keywords": [
+    "roole",
+    "error"
+  ],
+  "author": "Glen Huang <curvedmark@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/curvedmark/roole/issues"
+  },
+  "devDependencies": {
+    "mocha": "1.x"
+  }
+}
