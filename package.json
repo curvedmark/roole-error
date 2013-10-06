@@ -1,10 +1,10 @@
 {
   "name": "roole-error",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Errors thrown by the Roole language",
   "main": "lib/RooleError.js",
   "directories": {
-  	"lib": "lib",
+    "lib": "lib",
     "test": "test"
   },
   "scripts": {
